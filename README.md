@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicholascpark
-- 👀 I’m interested in machine learning, specifically deep reinforcement learning involving computer vision and NLP. 
-- 🌱 I’m currently learning about
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in deep reinforcement learning in CV and NLP and its application to recommender systems.
+- 🌱 I’m currently learning about custom large language models.
+- 💞️ I’m looking to collaborate on any exciting projects and publications in ML.
+- 📫 You can reach me via nickpark1209@gmail.com
 
 <!---
 nicholascpark/nicholascpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
