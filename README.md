@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholascpark
-- 👀 I’m interested in deep reinforcement learning and its application to recommender systems.
-- 🌱 I’m currently learning about state space modeling.
+- 👀 I’m interested in deep RL and its application to AI agents and human cognition.
+- 🌱 I’m currently learning about multimodal RAGs.
 - 💞️ I’m looking to collaborate on any exciting projects and publications in ML.
 - 📫 You can reach me via nickpark1209@gmail.com
 
